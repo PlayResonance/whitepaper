@@ -1,5 +1,8 @@
 # Resonance 
 Resonance Literature 
+
+[Roadmap](https://github.com/PlayResonance/whitepaper/tree/main#roadmap)
+[Lore](https://github.com/PlayResonance/lore)
 ___________________
 ## Roadmap
 
