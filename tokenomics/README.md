@@ -1,4 +1,4 @@
 # Tokenomics
 
-- [Resonance Points Token](https://github.com/PlayResonance/whitepaper/tree/main/tokenomics#:~:text=15%20minutes%20ago-,rpt.md,-(File))
+- [Resonance Points Token](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/rpt.md)
 - <i> In Progress...</i>
