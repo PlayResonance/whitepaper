@@ -14,4 +14,5 @@
 ## Hackathons
 - [OPOS](https://www.cubik.so/project/2ca92ed0-426e-4c06-bc4e-2e6e4f69a6d1/hackathon/8e23ade0-0dae-4c4b-83aa-67867749029c) - View our page on Cubik for the Only-Possible-On-Solana hackathon.
 - [RADAR](https://radarlaunch.app/project/64f1d72c60488d1ec7f9cbd1) - View our page on RADAR, an Optimism-based hackathon
+- [Hyperdrive]() - Coming soon...
 
