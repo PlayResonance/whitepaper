@@ -7,15 +7,16 @@
 - **Total Supply:** 1,000,000,000 RPT
 - **Mint Authority Status:** Controlled by a smart contract.
 
-| Allocation Type                | Amount           | Percentage   |
-|--------------------------------|------------------|--------------|
-| Initial Circulating Supply     | 100,000,000 RPT | 10%          |
-| Reserve Fund Allocation        | 200,000,000 RPT | 20%          |
-| Team and Advisors Allocation  | None             | 0%           |
-| Community and Ecosystem Allocation | 300,000,000 RPT | 30%    |
-| Private Sale Allocation        | None             | 0%           |
-| Public Sale Allocation         | None             | 0%           |
-| Liquidity Pool Allocation      | 400,000,000 RPT | 40%          |
+| Allocation Type                | Amount            | Percentage   |
+|--------------------------------|-------------------|--------------|
+| Initial Circulating Supply     | 50,000,000 RPT    | 5%           |
+| Reserve Fund Allocation        | 100,000,000 RPT   | 10%          |
+| Team and Advisors Allocation   | 25,000,000 RPT    | 2.5%         |
+| Community and Ecosystem Allocation | 300,000,000 RPT | 30%          |
+| Private Sale Allocation        | None              | 0%           |
+| Public Sale Allocation         | 400,000,000 RPT   | 40%          |
+| Liquidity Pool Allocation      | 125,000,000 RPT   | 12.5%        |
+
 
 ## Token Utility:
 - **Use Cases:** RPT is awarded to players for participating in minigames and can be used to upgrade player assets represented by cNFTs within the game.
