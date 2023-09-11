@@ -7,14 +7,15 @@
 - **Total Supply:** 1,000,000,000 XERION
 - **Mint Authority Status:** Controlled by a smart contract.
 
-## Token Allocation:
-- **Initial Circulating Supply:** 100,000,000 XERION (10%)
-- **Reserve Fund Allocation:** 200,000,000 XERION (20%)
-- **Team and Advisors Allocation:** 150,000,000 XERION (15%) with a vesting period of 4 years.
-- **Community and Ecosystem Allocation:** 250,000,000 XERION (25%)
-- **Private Sale Allocation:** 150,000,000 XERION (15%)
-- **Public Sale Allocation:** 100,000,000 XERION (10%)
-- **Liquidity Pool Allocation:** 50,000,000 XERION (5%)
+| Allocation Type                | Amount           | Percentage   | Vesting Period   |
+|--------------------------------|------------------|--------------|------------------|
+| Initial Circulating Supply     | 100,000,000 XERION | 10%         | -                |
+| Reserve Fund Allocation        | 200,000,000 XERION | 20%         | -                |
+| Team and Advisors Allocation   | 150,000,000 XERION | 15%         | 4 years          |
+| Community and Ecosystem Allocation | 250,000,000 XERION | 25%    | -                |
+| Private Sale Allocation        | 150,000,000 XERION | 15%         | -                |
+| Public Sale Allocation         | 100,000,000 XERION | 10%         | -                |
+| Liquidity Pool Allocation      | 50,000,000 XERION  | 5%          | -                |
 
 ## Token Utility:
 - **Use Cases:** XERION serves as an in-game currency for purchasing items within the Resonance game environment.
