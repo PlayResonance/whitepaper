@@ -1,12 +1,11 @@
 # Resonance Game cNFTs Overview
 
-Welcome to the Resonance Game's cNFT ecosystem! This README provides an overview of the various cNFTs available in the game, including the Xerion Cola Corp staking NFT and the upgradeable Mech-Wing NFT.
+Welcome to the Resonance Game's cNFT ecosystem! This is an overview of the various cNFTs available in the game, including the Xerion Cola Corp staking NFT and the upgradeable Mech-Wing NFT.
 
 ## Table of Contents
-- [Xerion Cola Corp Staking NFT]()
-- [Upgradeable Mech-Wing NFT]()
-- [Under Development]()
-- [More to Come]()
+- [Xerion Cola Corp Staking NFT](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/cnfts/xerion-cola-corp.md)
+- [Upgradeable Mech-Wing NFT](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/cnfts/mech-wing.md)
+- [Under Development, More to come]()
 
 ---
 
