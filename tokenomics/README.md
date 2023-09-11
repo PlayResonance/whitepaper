@@ -6,7 +6,7 @@
 
 The Resonance Gaming Ecosystem consists of four key tokens, each serving a distinct purpose within the gaming environment. These tokens work together to create a dynamic and engaging gaming experience for players while offering opportunities for governance and investment. Here's a brief overview of the interrelationship between these tokens:
 
-1. **XerionCoin (XERION)**
+1. **[XerionCoin (XERION)](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/xerioncoin.md)**
    - Token Type: SPL (Solana Program Library) Token
    - Role: In-Game Currency
    - Functionality:
@@ -15,7 +15,7 @@ The Resonance Gaming Ecosystem consists of four key tokens, each serving a disti
    - Connection to Xerion Cola Corp (XCC):
      - XERION is a primary asset for staking in Xerion Cola Corp, enabling players to invest in this lore-based entity.
 
-2. **Resonance Points Token (RPT)**
+2. **[Resonance Points Token (RPT)](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/rpt.md)**
    - Token Type: SPL Token
    - Role: In-Game Reward Points
    - Functionality:
@@ -24,14 +24,14 @@ The Resonance Gaming Ecosystem consists of four key tokens, each serving a disti
    - Connection to Game Assets:
      - RPT serves as the in-game currency to purchase upgrades for Game Asset cNFTs, enhancing players' gaming experience.
 
-3. **Resonance Council Token (RCT)**
+3. **[Resonance Council Token (RCT)](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/rct.md)**
    - Token Type: SPL Token
    - Role: Council Membership
    - Functionality:
      - Grants membership to the ResonanceDAO council, governing the DAO until a community of 10,000 players is established.
      - Provides voting capability in DAO governance decisions.
 
-4. **Resonance (RESON)**
+4. **[Resonance (RESON)](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/reson.md)**
    - Token Type: SPL Token
    - Role: Community Governance
    - Functionality:
