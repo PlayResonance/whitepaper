@@ -3,7 +3,8 @@ Resonance Literature
 
 - [Tokenomics](https://github.com/PlayResonance/whitepaper/tree/main/tokenomics)<br>
 - [Roadmap](https://github.com/PlayResonance/whitepaper/tree/main#roadmap)<br>
-- [Lore](https://github.com/PlayResonance/lore)
+- [Lore](https://github.com/PlayResonance/lore)<br>
+- [Links](https://github.com/PlayResonance/whitepaper/blob/main/links.md)
 ___________________
 ## Roadmap
 
