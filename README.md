@@ -8,8 +8,6 @@ Resonance Literature
 ___________________
 ## Roadmap
 
-Resonance Roadmap
-
 ### Phase 1: Project Initiation
 Duration: 3 months
 #### Conceptualization and Planning (Month 1)
