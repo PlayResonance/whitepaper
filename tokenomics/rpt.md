@@ -1,4 +1,4 @@
-# Resonance Points Token (RPT) - Tokenomics Overview
+# Resonance Points Token (RPT) 
 
 ## Token Information:
 - **Token Name:** Resonance Points Token
