@@ -1,6 +1,7 @@
 # Resonance 
 Resonance Literature 
 
+- [Tokenomics](https://github.com/PlayResonance/whitepaper/tree/main/tokenomics)<br>
 - [Roadmap](https://github.com/PlayResonance/whitepaper/tree/main#roadmap)<br>
 - [Lore](https://github.com/PlayResonance/lore)
 ___________________
