@@ -1,5 +1,3 @@
-# Tokenomics
-
 # Resonance Gaming Ecosystem Tokens
 
 ## Overview
