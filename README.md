@@ -6,6 +6,92 @@ Resonance Literature
 - [Lore](https://github.com/PlayResonance/lore)<br>
 - [Links](https://github.com/PlayResonance/whitepaper/blob/main/links.md)
 ___________________
+
+## Project TLDR
+
+Resonance is an extraordinary open-world metaverse puzzle RPG, intricately crafted on Portals.
+
+Within this immersive world, AI NPCs will further enrich the player's journey, creating a dynamic and ever-evolving environment that responds to their actions and choices. What's even more exciting is the potential to create collectible assets that hold real-world value and are tradable on secondary markets, all while ensuring creators receive their well-deserved royalties. This seamless, friction-free environment is poised to spark a gaming and open-source renaissance, ushering in a new era of innovation.
+
+At Resonance, we're dedicated to empowering our community members to fully embrace these game-changing tools and Solana's unique play-to-earn mechanics, fostering dynamic relationships between businesses and the community that drive mutual success.
+
+The tools we're crafting for Resonance hold a unique promise. These open-source mechanisms will serve as a powerful resource for indie developers, enabling them to realize their creative visions through Solana's unparalleled speed and efficiency. By tapping into the fastest settlements and lowest fees that technology can offer, developers can bring their dreams to life, resulting in captivating player experiences that resonate with their communities.
+
+## Who is the team executing on this project
+
+### Tanny
+
+My journey has been enriched by a passion for music production, which has led me to understand the importance of creativity and attention to detail in any endeavor. Within the Portals community, I have taken on the role of a dedicated contributor, creating user-friendly tutorials and walkthroughs that help newcomers grasp complex concepts, from foundational safety measures to essential building techniques.
+
+Having been an avid gamer for over three decades, my deep appreciation for RPGs like "Nier: Automata," as well as classics from Bethesda's roster, reflects my commitment to immersive and engaging experiences. This longstanding passion has provided me with insights into what makes RPGs captivating and memorable.
+
+Incorporating my web3 development experience and a genuine enthusiasm for innovation, I am excited to collaborate with like-minded individuals. My goal is to contribute my expertise and drive to projects that push boundaries, fostering an environment of creativity and progress.
+
+[playresonance.com](https://playresonance.com)
+
+## This project is looking for:
+
+I'm seeking a team of talented collaborators who share my vision for Resonance and are passionate about contributing their expertise to make the project a success.
+
+**Storytellers and Lore Experts:** I'm looking for creative minds who can dive deep into the lore of the game and develop intricate backstories for characters. If you have a knack for weaving emotional and evocative narratives that resonate with players, your input will be invaluable in enriching the storytelling experience.
+
+**Back-End Developers:** A solid technical foundation is crucial to ensure the safety, efficiency, and excitement of our in-game mechanisms. If you're a skilled back-end developer experienced in blockchain technology, DeFi integration, and creating secure and scalable systems, your contributions will be pivotal in delivering a seamless and enjoyable experience to our players.
+
+**Visual Artists and Character Designers:** Enriching the visual aspects of the game is essential to captivate players' imagination. If you have a talent for creating captivating art, crafting immersive environments, and breathing life into characters, your artistic flair will play a significant role in bringing the world of Resonance to life.
+
+**NFT Creators:** As NFTs become an integral part of the gaming landscape, I'm seeking collaborators with expertise in designing and minting NFT collections that represent our game assets. If you're passionate about creating unique, visually striking, and meaningful NFTs that resonate with players and collectors alike, your skills will help us build a thriving in-game economy.
+
+Together, our collaborative efforts will shape the Resonance experience into something truly exceptional. If you're driven by creativity, innovation, and a shared passion for creating an immersive, engaging, and rewarding gaming universe, I invite you to join me on this exciting journey.
+
+## Funding Goals
+
+- **$10,000.00**
+  - Milestone 1: Conceptualization and Design
+    - Develop a detailed game concept, including characters, world-building, and storyline.
+    - Create initial art concepts and character designs.
+    - Design the user interface and user experience for the game.
+
+- **$8,000.00**
+  - Milestone 2: Lore and Narrative Development
+    - Write in-depth backstories for main characters and supporting NPCs.
+    - Craft a comprehensive world lore that enriches the gaming experience.
+    - Develop dialogues and narrative elements that enhance player engagement.
+
+- **$15,000.00**
+  - Milestone 3: Art and Asset Curation
+    - Collaborate with artists to create high-quality character illustrations and environment designs.
+    - Curate a collection of unique NFT assets, including characters, items, and in-game collectibles.
+    - Develop visual assets for promotional materials and marketing campaigns.
+
+- **$20,000.00**
+  - Milestone 4: Solana Integration and Smart Contracts
+    - Implement Solana smart contracts for play-to-earn mechanisms, such as idle game earning and asset staking.
+    - Develop a seamless integration of NFT assets within the Solana ecosystem.
+    - Ensure the security and efficiency of blockchain interactions.
+
+- **$12,000.00**
+  - Milestone 5: Partnership and Marketing
+    - Establish strategic partnerships with influential figures and communities in the blockchain and gaming space.
+    - Launch a comprehensive marketing campaign to generate awareness and interest in Resonance.
+    - Organize community events, AMAs, and engage with potential players.
+
+- **$7,000.00**
+  - Milestone 6: Closed Alpha Testing
+    - Conduct closed alpha testing with a select group of participants to identify bugs and gather feedback.
+    - Refine gameplay mechanics, balance, and user experience based on feedback received.
+
+- **$25,000.00**
+  - Milestone 7: Open Beta Launch
+    - Launch the open beta version of Resonance to a wider audience.
+    - Collect valuable insights and data from players to further refine the game.
+    - Implement improvements based on user feedback and bug reports.
+
+- **$30,000.00**
+  - Milestone 8: Full Game Release
+    - Finalize and polish the game based on lessons learned from the beta phase.
+    - Launch the fully developed version of Resonance with all intended features and mechanics.
+    - Initiate a widespread marketing campaign to promote the official release.
+
 ## Roadmap
 
 ### Phase 1: Project Initiation
