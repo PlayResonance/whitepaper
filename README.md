@@ -32,6 +32,31 @@ We're seeking a team of talented collaborators who share our vision for Resonanc
 
 Together, our collaborative efforts will shape the Resonance experience into something truly exceptional. If you're driven by creativity, innovation, and a shared passion for creating an immersive, engaging, and rewarding gaming universe, We invite you to join us on this exciting journey.
 
+## Resonance Gaming Ecosystem and ResonanceDAO
+
+The Resonance Gaming Ecosystem is governed by ResonanceDAO, an autonomous decentralized organization managed by the Resonance Council, which acts as the governing body. This decentralized approach ensures that key decisions are made collectively and transparently by the community, fostering a sense of ownership and participation.
+
+### Funding the DAO Treasury
+
+The DAO treasury, a crucial component of ResonanceDAO, is primarily funded through various mechanisms within the ecosystem:
+
+1. **Token Swaps:** The treasury receives contributions from token swaps that represent in-game purchases of upgrades, assets, and collectibles. These swaps are a direct result of player engagement and economic activity within the game.
+
+2. **Staking Fees:** A portion of the staking fees generated via in-game staking mechanisms is allocated to the treasury. This mechanism encourages users to participate in staking, thereby contributing to the treasury's growth.
+
+### Functions of the Treasury
+
+The DAO treasury serves several vital functions:
+
+1. **Development Funding:** One of its primary roles is to fund and foster development efforts. This includes offering bounties for improvements to the game, development of new mini-games, enhancing ecosystem security, and other initiatives aimed at advancing the project.
+
+2. **Emergency Reserves:** The treasury also acts as a reserve in the event of unforeseen emergencies, such as security breaches, exploits, or vulnerabilities within the ecosystem. These funds can be swiftly deployed to address and mitigate such issues.
+
+### Community-Driven Growth
+
+ResonanceDAO's treasury is a pivotal element in driving community-driven growth and ensuring the resilience and security of the ecosystem. It aligns with the project's commitment to transparency, decentralization, and active community participation.
+
+
 ## Roadmap
 
 ### Phase 1: Project Initiation
