@@ -10,25 +10,17 @@ Welcome to the Resonance Game's cNFT ecosystem! This is an overview of the vario
 
 ---
 
+## Play Resonance Token (PRT)
+
+PRT is your passport to the Resonance Game, granting access, tracking progress, and enhancing gameplay.
+
+
 ## Xerion Cola Corp Staking NFT
 
 **Xerion Cola Corp (XCC) cNFTs** represent a unique opportunity for players to stake their XerionCoin (XERION) and Solana (SOL) into a Kamino position within the game. By staking XERION and SOL, players invest in Xerion Cola Corporation, a lore element of the game, and earn staking rewards.
 
 ### Key Features:
 - **Investment in Lore:** Staking XERION and SOL via XCC cNFTs aligns with the game's lore, where players become investors in the fictional Xerion Cola Corporation.
-
-### Roadmap:
-- **Phase 1:** Conceptualization and Planning
-- **Phase 2:** Smart Contract Development
-- **Phase 3:** Integration with Kamino Finance
-- **Phase 4:** Testing and Security Audits
-- **Phase 5:** User Interface Development
-- **Phase 6:** Launch and Marketing
-- **Phase 7:** Mainnet Launch
-- **Phase 8:** Community Engagement and Feedback
-- **Phase 9:** Future Developments
-- **Phase 10:** Documentation and Education
-- **Phase 11:** Continuous Improvement
 
 ---
 
@@ -47,9 +39,24 @@ Welcome to the Resonance Game's cNFT ecosystem! This is an overview of the vario
 
 ---
 
+
+### Roadmap:
+- **Phase 1:** Conceptualization and Planning
+- **Phase 2:** Smart Contract Development
+- **Phase 3:** Integration with Kamino Finance
+- **Phase 4:** Testing and Security Audits
+- **Phase 5:** User Interface Development
+- **Phase 6:** Launch and Marketing
+- **Phase 7:** Mainnet Launch
+- **Phase 8:** Community Engagement and Feedback
+- **Phase 9:** Future Developments
+- **Phase 10:** Documentation and Education
+- **Phase 11:** Continuous Improvement
+
 ## More to Come
 
 We are constantly working on expanding our cNFT offerings and creating more immersive experiences within the Resonance Game. Expect more exciting cNFTs and features in the near future.
 
 Stay connected with us for updates and announcements regarding the Resonance Game's cNFT ecosystem!
+
 
