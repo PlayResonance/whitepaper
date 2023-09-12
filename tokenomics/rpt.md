@@ -20,11 +20,8 @@
 
 ## Token Utility:
 - **Use Cases:** RPT is awarded to players for participating in minigames and can be used to upgrade player assets represented by cNFTs within the game.
-- **Staking Details:** RPT holders can stake their tokens to earn additional RPT or other in-game rewards.
-- **Governance Details:** RPT may be used for voting on game-related proposals and upgrades if introduced in the future.
 - **Rewards Mechanisms:** Players can earn RPT as rewards for achieving high scores in minigames.
 - **Burn Mechanism:** There is no burn mechanism for RPT.
-- **Discounts or Fee Reductions:** RPT holders may receive discounts on in-game asset upgrades.
 
 ## Token Sale Details:
 - **Private Sale Details:** There is no private sale for RPT.
@@ -35,20 +32,6 @@
 - **Protocol Revenue Sources:** Revenue is generated from in-game purchases of upgrades and additional game assets.
 - **Revenue Flow Back:** A portion of the revenue generated flows back into the Reserve Fund and Community and Ecosystem Allocation.
 - **Market Dynamics:** Token value is influenced by the demand for in-game asset upgrades and participation in minigames.
-
-## Governance and Decision-Making:
-- **DAO Structure:** The game ecosystem may introduce a DAO structure in the future, enabling RPT holders to participate in decision-making.
-- **Governance Token Mechanics:** If introduced, RPT may be used for voting on game-related proposals.
-- **Council Composition:** If a DAO is established, council composition will be determined by the community.
-
-## Validators or LSTs (Liquid Staking Tokens) Involvement:
-- **Role of Validators/LSTs:** There is no direct involvement of validators or LSTs in the RPT ecosystem.
-
-## Council Compensation and Elections:
-- **Compensation Models:** N/A as there is no council or team allocation for RPT.
-- **Performance-Based Compensation:** N/A.
-- **Election Process:** N/A as there is no council or team allocation for RPT.
-- **Council Rotation Period:** N/A.
 
 ## Security Measures:
 - **Smart Contract Audits:** Smart contracts related to RPT and cNFTs undergo third-party security audits.
