@@ -46,6 +46,22 @@ The Resonance Gaming Ecosystem consists of four key tokens, each serving a disti
 - RCT holders will have a governance role in shaping the ecosystem's decisions, including those related to RESON token utility and distribution.
 - XERION is the primary asset for staking in Xerion Cola Corp (XCC), introducing an investment element to the gaming experience.
 
+## Treasury Swaps
+The Resonance Gaming Ecosystem is committed to fostering community participation and governance. To facilitate this, we have established a DAO treasury that allows players to swap their tokens for RESON, the token representing community governance within the ecosystem, at specified rates. These swaps are designed to encourage player involvement in shaping the ecosystem's future. 
+
+<i>The Resonance Council will be the absolute governing body until we have 10,000 active players.</i>
+
+### DAO Treasury Swaps
+   - **RPT to RESON Swap:** Players can swap Resonance Points Tokens (RPT) for RESON at a rate of 3:1. This means for every 3 RPT tokens swapped, you will receive 1 RESON token. This mechanism allows players to convert their in-game reward points into governance tokens, enabling them to actively participate in the decision-making process of the ecosystem.
+
+   - **XerionCoin to RESON Swap:** Additionally, XerionCoin (XERION) holders can participate in governance by swapping their tokens for RESON at a rate of 4:1. For every 4 XERION tokens swapped, you will receive 1 RESON token. This provides an avenue for those who hold XERION to become actively involved in the governance structure.
+
+These treasury swaps are part of our commitment to decentralization and community-driven decision-making. They ensure that players have a direct stake in the ecosystem's governance when community governance is implemented, fostering a sense of ownership and participation.
+
+The rates for these swaps are designed to provide accessibility to governance participation while maintaining a balance that reflects the value of each token within the ecosystem. As the ecosystem evolves and governance decisions are made, the swap rates may be subject to adjustments to align with the community's interests and the ecosystem's growth.
+
+We encourage players to stay engaged with the ecosystem, participate in governance discussions, and take advantage of these treasury swaps to actively shape the future of the Resonance Gaming Ecosystem. Your voice and involvement are integral to our ongoing development and success.
+
 ## cNFTs
 
 Various in game assets will be represented by compressed NFTs with updatable metadata. These assets will allow players to fully customize their in-game experience, and take ownership of their character and belongings in the game like never before. These assets will rest in the player's wallet and available to list on secondary markets. 
