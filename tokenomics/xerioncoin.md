@@ -33,18 +33,6 @@
 - **Revenue Flow Back:** A portion of the revenue flows back to XERION holders through staking rewards and governance incentives.
 - **Market Dynamics:** Token value is influenced by demand for in-game items, liquidity provision, and governance participation.
 
-## Governance and Decision-Making:
-- **DAO Structure:** ResonanceDAO operates with a council-based governance structure.
-- **Governance Token Mechanics:** XERION is used for voting on proposals and decision-making.
-- **Council Composition:** The council consists of active and engaged community members.
-- **Decision-Making Mechanisms:** Proposals are submitted, voted on by the council, and implemented based on majority consensus.
-- **Liveness Checks:** Periodic liveness checks ensure council members remain active.
-
-## Validators or LSTs (Liquid Staking Tokens) Involvement:
-- **Role of Validators/LSTs:** Validators participate in securing the network and may have voting power on critical protocol upgrades.
-- **Decision-Making Powers:** Validators have no veto power but contribute to decisions on security and network upgrades.
-- **Criteria for Validator Participation:** Validators are selected based on their reputation and stake in the network.
-
 ## Council Compensation and Elections:
 - **Compensation Models:** Council members receive token-based compensation for their contributions.
 - **Performance-Based Compensation:** Performance incentives may be introduced in the future based on council performance.
