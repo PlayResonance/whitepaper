@@ -43,8 +43,9 @@ The Resonance Gaming Ecosystem consists of four key tokens, each serving a disti
 
 - [Pre-10,000] Until there are 10,000 players, governance will be overseen by the ResonanceDAO Council.
 - [Post-10,000] After Resonance crosses 10,000 active players, we will iniate a vote to swap to community governance.
-- RCT holders will have a governance role in shaping the ecosystem's decisions, including those related to RESON token utility and distribution.
+- RESON holders will eventually have a governance role in shaping the ecosystem's decisions, including those related to RESON token utility and distribution.
 - XERION is the primary asset for staking in Xerion Cola Corp (XCC), introducing an investment element to the gaming experience.
+- RPT will be required for in-game upgrades to assets represented by cNFTs which can be listed on secondary in compete with costs incurred from RPT-upgrades to create an in-game economy between new and existing players, allowing newcomers to acquire upgrades at potentially lower costs.
 
 ## Treasury Swaps
 The Resonance Gaming Ecosystem is committed to fostering community participation and governance. To facilitate this, we have established a DAO treasury that allows players to swap their tokens for RESON, the token representing community governance within the ecosystem, at specified rates. These swaps are designed to encourage player involvement in shaping the ecosystem's future. 
