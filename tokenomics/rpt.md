@@ -4,18 +4,18 @@
 - **Token Name:** Resonance Points Token
 - **Token Symbol:** RPT
 - **Token Type:** SPL Token (Solana Token)
-- **Total Supply:** 1,000,000,000 RPT
+- **Total Supply:** 100,000,000,000 RPT [1 x 10<sup>9</sup> <i>or</i> 100B]
 - **Mint Authority Status:** Controlled by a smart contract.
 
 | Allocation Type                | Amount            | Percentage   |
 |--------------------------------|-------------------|--------------|
-| Initial Circulating Supply     | 50,000,000 RPT    | 5%           |
-| Reserve Fund Allocation        | 100,000,000 RPT   | 10%          |
-| Team and Advisors Allocation   | 25,000,000 RPT    | 2.5%         |
-| Community and Ecosystem Allocation | 300,000,000 RPT | 30%          |
+| Initial Circulating Supply     | 5B RPT    | 5%           |
+| Reserve Fund Allocation        | 1B RPT   | 10%          |
+| Team and Advisors Allocation   | 2.5B RPT    | 2.5%         |
+| Community and Ecosystem Allocation | 3B RPT | 30%          |
 | Private Sale Allocation        | None              | 0%           |
-| Public Sale Allocation         | 400,000,000 RPT   | 40%          |
-| Liquidity Pool Allocation      | 125,000,000 RPT   | 12.5%        |
+| Public Sale Allocation         | 40B RPT   | 40%          |
+| Liquidity Pool Allocation      | 12.5B RPT   | 12.5%        |
 
 
 ## Token Utility:
