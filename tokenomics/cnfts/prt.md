@@ -17,3 +17,16 @@ The Play Resonance Token (PRT) is a fundamental in-game asset within the Resonan
 - **Secondary Market Trading**: PRTs can be listed on secondary markets, allowing players to trade and exchange them with others. This feature creates a fluid and self-sustaining economy where newcomers can acquire PRTs without the need for extensive token expenditures.
 
 The Player Resonance Token is at the core of the Resonance Game, ensuring that players have easy access to the game world while also allowing them to showcase their achievements through the Points and Level data stored within their tokens. With an open supply and low minting cost, PRTs encourage widespread participation and foster a vibrant and engaging gaming ecosystem.
+
+## Gen1 Tokens and Initial Multiplier
+
+ResonanceDAO will mint a special Gen1 Collection for the Play Resonance tokens. These Gen1 tokens come with a unique advantage—a higher earning rate. Here's what you need to know:
+
+- **Distribution:** 50% of the Gen1 tokens will be distributed to contributors, while the remaining 50% will be listed for a Floor Price of 1 SOL.
+
+- **Trading Dynamics:** Contributors can freely trade their Gen1 tokens in the open market. However, ResonanceDAO will not be able to list Gen1 tokens below the Floor Price of 1 SOL. This ensures stability and discourages lowering the floor price.
+
+- **Earning Advantage:** Gen1 Tokens will have an initial multiplier, earning RPT and XERION at a rate 150% higher than standard player tokens and mech-wing tokens. This multiplier can stack with the Gen1 Mech Wing Tokens multiplier, and remains in effect indefinitely. 
+
+Investors and contributors can leverage this initial multiplier for potential rewards and enhanced gameplay within the Resonance ecosystem. 
+
