@@ -10,7 +10,7 @@ Xerion Cola Corp cNFTs will allow players to access a unique staking platform cr
 
 This approach will require a unique market-making pool with the help of Kamino core developers, creating a first-of-its-kind token gated liquidity pool. This approach will create a unique relationship between players of the game and day traders.
 
-Below is a general prospective outline for excecution. 
+Below is a general prospective outline for implementation. 
 
 ## Phase 1: Conceptualization and Planning
 - **Duration:** 1 month
