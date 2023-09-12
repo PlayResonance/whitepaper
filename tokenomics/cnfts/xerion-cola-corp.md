@@ -1,6 +1,6 @@
 # Xerion Cola Corp (XCC) cNFT Staking Roadmap
 
-The Xerion Cola cNFT is a unique in-game asset that represents ownership of shares in Xerion Cola Corp within the Resonance game ecosystem. These cNFTs will have a staking mechanism, enabling players to invest in Xerion Cola Corp by staking XerionCoin, the native cryptocurrency of the game, paired with Solana, a popular blockchain, into a liquidity pool hosted on Kamino Finance.
+The Xerion Cola cNFT is a unique in-game asset that represents ownership of shares in Xerion Cola Corp within the Resonance game ecosystem. These cNFTs will have a staking mechanism, enabling players to invest in Xerion Cola Corp by staking XerionCoin, the native cryptocurrency of the game, paired with Solana, into a liquidity pool hosted on Kamino Finance.
 
 ### Key Features:
 
