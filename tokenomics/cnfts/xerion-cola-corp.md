@@ -2,7 +2,7 @@
 
 ## Kamino Market Making
 
-Xerion Cola Corp cNFTs will allow players to access a unique staking platform created using Kamino, a decentralized liquidity provider on Solana. The platform will enable the staking of a XerionCoin [XERION] liquidity pair, beginning with Solana. This pair will be able to be modified based on a vote for alternative pairs. 
+Xerion Cola Corp cNFTs will allow players to access a unique staking platform created using Kamino, a decentralized liquidity provider on Solana. The platform will enable the staking of a XerionCoin [XERION] liquidity pair. Initially, this pair will be XERION/SOL. The selected pair will be able to be modified based on a vote for alternative XERION pairs. 
 
      - **Simulated Dividends:** Players will receive trading fees in their staked position, which will come with a 4th-Wall Disclaimer, indicating the risk of the exposure in the real world, safety tips, and exit strategies. The disclaimer specify that within the game, these trading fees will be viewed as “Dividends”, as if the player purchased stock in XerionCorp.
 
