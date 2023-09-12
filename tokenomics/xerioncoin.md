@@ -20,10 +20,8 @@
 ## Token Utility:
 - **Use Cases:** XERION serves as an in-game currency for purchasing items within the Resonance game environment.
 - **Staking Details:** Players can stake XERION and Solana to earn rewards by providing liquidity to the Xerion Cola liquidity pool on Kamino.
-- **Governance Details:** XERION holders can participate in DAO governance decisions related to the game's development and ecosystem.
 - **Rewards Mechanisms:** Stakers can earn rewards from trading fees within the Xerion Cola liquidity pool.
 - **Burn Mechanism:** There is no burn mechanism for XERION.
-- **Discounts or Fee Reductions:** XERION holders may receive discounts on in-game purchases.
 
 ## Token Sale Details:
 - **Private Sale Details:** During the private sale, XERION was sold at $0.01 per token with a 6-month lock-up period.
