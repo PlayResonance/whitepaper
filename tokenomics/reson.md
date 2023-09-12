@@ -28,7 +28,6 @@
 - **Governance Details:** RESON holders have voting rights in the DAO, influencing decisions, upgrades, and ecosystem development.
 - **Rewards Mechanisms:** Active participation in governance may result in rewards or incentives.
 - **Burn Mechanism:** There is no burn mechanism for RESON.
-- **Discounts or Fee Reductions:** RESON holders may receive discounts on in-game purchases or other ecosystem benefits.
 
 ## Token Sale Details:
 - **Private Sale Details:** There is no private sale for RESON.
@@ -45,15 +44,6 @@
 - **DAO Structure:** ResonanceDAO is the governing body, with RESON holders participating in decision-making.
 - **Governance Token Mechanics:** RESON holders have voting rights for proposals and initiatives.
 - **Council Composition:** The council may consist of active and engaged community members elected or selected based on various criteria.
-
-## Validators or LSTs (Liquid Staking Tokens) Involvement:
-- **Role of Validators/LSTs:** Validators or LSTs may play a role in securing the network but may not have direct governance power.
-
-## Council Compensation and Elections:
-- **Compensation Models:** Council members may receive governance rewards or incentives for active participation.
-- **Performance-Based Compensation:** Rewards may be performance-based, encouraging active engagement.
-- **Election Process:** Details on council member selection and elections should be defined in the project's governance framework.
-- **Council Rotation Period:** Council members may have defined terms with the possibility of re-election.
 
 ## Security Measures:
 - **Smart Contract Audits:** Smart contracts related to RESON and DAO governance undergo third-party security audits.
