@@ -107,9 +107,9 @@ Duration: Ongoing
 
 ### Security:
 
-- To guarantee the utmost security, we have subjected our smart contracts and token-related processes to rigorous third-party security audits conducted by reputable auditors.
+- To guarantee the utmost security, we will subject our smart contracts and token-related processes to rigorous third-party security audits conducted by reputable auditors.
 
-- Additionally, we have established a dedicated security fund to promptly address any unforeseen vulnerabilities, hacks, or security threats, reinforcing the safety of our ecosystem.
+- Additionally, we will establish a dedicated security fund to promptly address any unforeseen vulnerabilities, hacks, or security threats, reinforcing the safety of our ecosystem.
 
 ### Fair Distribution:
 
@@ -125,7 +125,7 @@ Duration: Ongoing
 
 - Our governance structure is designed to promote active and meaningful participation from our community members.
 
-- We have developed guidelines outlining the process for submitting, discussing, and voting on proposals to ensure transparency and inclusivity in our governance decisions.
+- We will develop guidelines outlining the process for submitting, discussing, and voting on proposals to ensure transparency and inclusivity in our governance decisions.
 
 ### Utility and Use Cases:
 
@@ -141,7 +141,7 @@ Duration: Ongoing
 
 ### Community Feedback and Participation:
 
-- We value the input and feedback of our community members, and we have established mechanisms for them to actively engage with and influence our tokenomics and governance decisions.
+- We value the input and feedback of our community members, and we will establish mechanisms for them to actively engage with and influence our tokenomics and governance decisions.
 
 ### Alignment with Project Goals:
 
@@ -161,7 +161,7 @@ Duration: Ongoing
 
 ### Contingency Plans:
 
-- We understand the importance of preparing for unforeseen circumstances and have implemented contingency plans to address any unexpected events, such as security breaches, ensuring the ongoing security and stability of our ecosystem.
+- We understand the importance of preparing for unforeseen circumstances and will implement contingency plans to address any unexpected events, such as security breaches, ensuring the ongoing security and stability of our ecosystem.
 
 At Resonance, we are dedicated to building a secure, transparent, and community-driven ecosystem, and we appreciate the valuable feedback from our community as we continue to develop and refine our tokenomics.
  
