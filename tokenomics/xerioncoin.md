@@ -33,12 +33,6 @@
 - **Revenue Flow Back:** A portion of the revenue flows back to XERION holders through staking rewards and governance incentives.
 - **Market Dynamics:** Token value is influenced by demand for in-game items, liquidity provision, and governance participation.
 
-## Council Compensation and Elections:
-- **Compensation Models:** Council members receive token-based compensation for their contributions.
-- **Performance-Based Compensation:** Performance incentives may be introduced in the future based on council performance.
-- **Election Process:** Council members are elected through community voting, with elections occurring annually.
-- **Council Rotation Period:** Council members serve one-year terms.
-
 ## Security Measures:
 - **Smart Contract Audits:** Smart contracts undergo third-party security audits.
 - **Security Fund Allocation:** A security fund is allocated to address potential vulnerabilities.
