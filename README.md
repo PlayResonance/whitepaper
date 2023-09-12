@@ -10,7 +10,7 @@ ___________________
 
 ## Project TLDR
 
-Resonance is an extraordinary open-world metaverse puzzle RPG, intricately crafted on Portals.
+[Resonance](https://playresonance.com/) is an extraordinary open-world metaverse puzzle RPG, intricately crafted on [Portals](https://theportal.to/).
 
 Within this immersive world, AI NPCs will further enrich the player's journey, creating a dynamic and ever-evolving environment that responds to their actions and choices. What's even more exciting is the potential to create collectible assets that hold real-world value and are tradable on secondary markets, all while ensuring creators receive their well-deserved royalties. This seamless, friction-free environment is poised to spark a gaming and open-source renaissance, ushering in a new era of innovation.
 
