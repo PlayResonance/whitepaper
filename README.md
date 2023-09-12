@@ -17,31 +17,19 @@ At Resonance, we're dedicated to empowering our community members to fully embra
 
 The tools we're crafting for Resonance hold a unique promise. These open-source mechanisms will serve as a powerful resource for indie developers, enabling them to realize their creative visions through Solana's unparalleled speed and efficiency. By tapping into the fastest settlements and lowest fees that technology can offer, developers can bring their dreams to life, resulting in captivating player experiences that resonate with their communities.
 
-## Who is the team executing on this project
-
-### Tanny
-
-My journey has been enriched by a passion for music production, which has led me to understand the importance of creativity and attention to detail in any endeavor. Within the Portals community, I have taken on the role of a dedicated contributor, creating user-friendly tutorials and walkthroughs that help newcomers grasp complex concepts, from foundational safety measures to essential building techniques.
-
-Having been an avid gamer for over three decades, my deep appreciation for RPGs like "Nier: Automata," as well as classics from Bethesda's roster, reflects my commitment to immersive and engaging experiences. This longstanding passion has provided me with insights into what makes RPGs captivating and memorable.
-
-Incorporating my web3 development experience and a genuine enthusiasm for innovation, I am excited to collaborate with like-minded individuals. My goal is to contribute my expertise and drive to projects that push boundaries, fostering an environment of creativity and progress.
-
-[playresonance.com](https://playresonance.com)
-
 ## This project is looking for:
 
-I'm seeking a team of talented collaborators who share my vision for Resonance and are passionate about contributing their expertise to make the project a success.
+We're seeking a team of talented collaborators who share my vision for Resonance and are passionate about contributing their expertise to make the project a success.
 
-**Storytellers and Lore Experts:** I'm looking for creative minds who can dive deep into the lore of the game and develop intricate backstories for characters. If you have a knack for weaving emotional and evocative narratives that resonate with players, your input will be invaluable in enriching the storytelling experience.
+**Storytellers and Lore Experts:** We're looking for creative minds who can dive deep into the lore of the game and develop intricate backstories for characters. If you have a knack for weaving emotional and evocative narratives that resonate with players, your input will be invaluable in enriching the storytelling experience.
 
 **Back-End Developers:** A solid technical foundation is crucial to ensure the safety, efficiency, and excitement of our in-game mechanisms. If you're a skilled back-end developer experienced in blockchain technology, DeFi integration, and creating secure and scalable systems, your contributions will be pivotal in delivering a seamless and enjoyable experience to our players.
 
 **Visual Artists and Character Designers:** Enriching the visual aspects of the game is essential to captivate players' imagination. If you have a talent for creating captivating art, crafting immersive environments, and breathing life into characters, your artistic flair will play a significant role in bringing the world of Resonance to life.
 
-**NFT Creators:** As NFTs become an integral part of the gaming landscape, I'm seeking collaborators with expertise in designing and minting NFT collections that represent our game assets. If you're passionate about creating unique, visually striking, and meaningful NFTs that resonate with players and collectors alike, your skills will help us build a thriving in-game economy.
+**NFT Creators:** As NFTs become an integral part of the gaming landscape, We're seeking collaborators with expertise in designing and minting NFT collections that represent our game assets. If you're passionate about creating unique, visually striking, and meaningful NFTs that resonate with players and collectors alike, your skills will help us build a thriving in-game economy.
 
-Together, our collaborative efforts will shape the Resonance experience into something truly exceptional. If you're driven by creativity, innovation, and a shared passion for creating an immersive, engaging, and rewarding gaming universe, I invite you to join me on this exciting journey.
+Together, our collaborative efforts will shape the Resonance experience into something truly exceptional. If you're driven by creativity, innovation, and a shared passion for creating an immersive, engaging, and rewarding gaming universe, We invite you to join us on this exciting journey.
 
 ## Funding Goals
 
