@@ -53,6 +53,19 @@ PRT is your passport to the Resonance Game, granting access, tracking progress, 
 - **Phase 10:** Documentation and Education
 - **Phase 11:** Continuous Improvement
 
+## Royalties
+
+Within the Resonance gaming ecosystem, all semi-fungible (SFTs), compressed non-fungible (cNFTs), programmable NFTs (pNFTs), and non-fungible tokens (NFTs) will have royalties enforced. These royalties ensure that creators and contributors continue to benefit from the ecosystem's growth. Here's how they work:
+
+- **Royalty Percentage:** 3% of the transaction value for these tokens will be allocated as royalties.
+
+- **Team and Advisors:** 1.5% of the royalties collected will be directed to the Team and Advisors as recognition for their contributions and involvement in the project.
+
+- **Community Reserve Fund:** The remaining 1.5% of the royalties will be added to the Community Reserve Fund. This fund serves as a valuable resource to support community initiatives, development, and other activities that benefit the broader ecosystem.
+
+These royalties promote sustainability, incentivize creators, and contribute to the ongoing growth and prosperity of the Resonance gaming ecosystem.
+
+
 ## More to Come
 
 We are constantly working on expanding our cNFT offerings and creating more immersive experiences within the Resonance Game. Expect more exciting cNFTs and features in the near future.
