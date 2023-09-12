@@ -8,7 +8,7 @@ The Resonance Gaming Ecosystem consists of four key tokens, each serving a disti
    - Token Type: SPL (Solana Program Library) Token
    - Role: In-Game Currency
    - Functionality:
-     - Earned by working jobs in Veilbrook. Used for purchasing in-game items from various shops, including furniture, custom GLB avatars, and unique assets like Xerion Cola (cNFT).
+     - Earned by working jobs in Veilbrook. Used for purchasing in-game items from various shops, including furniture, custom GLB avatars, and unique assets like Xerion Cola Corp (cNFT).
      - Can be staked in liquidity pools with Solana on Kamino for rewards earned from trading fees.
    - Connection to Xerion Cola Corp (XCC):
      - XERION is a primary asset for staking in Xerion Cola Corp, enabling players to invest in this lore-based entity.
@@ -45,6 +45,12 @@ The Resonance Gaming Ecosystem consists of four key tokens, each serving a disti
 - [Post-10,000] After Resonance crosses 10,000 active players, we will iniate a vote to swap to community governance.
 - RCT holders will have a governance role in shaping the ecosystem's decisions, including those related to RESON token utility and distribution.
 - XERION is the primary asset for staking in Xerion Cola Corp (XCC), introducing an investment element to the gaming experience.
+
+## cNFTs
+
+Various in game assets will be represented by compressed NFTs with updatable metadata. These assets will allow players to fully customize their in-game experience, and take ownership of their character and belongings in the game like never before. These will be in the players wallet and available to list on secondary markets. 
+
+[Here]() are 2 examples of the cNFTs we are developing. 
 
 ## Roadmap and Development
 
