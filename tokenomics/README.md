@@ -47,7 +47,15 @@ The Resonance Gaming Ecosystem consists of four key tokens, each serving a disti
 - XERION is the primary asset for staking in Xerion Cola Corp (XCC), introducing an investment element to the gaming experience.
 - RESON holders will eventually have a governance role in shaping the ecosystem's decisions, including those related to RESON token utility and distribution.
 
-## Treasury Swaps
+## Token Availability  
+
+   - **In-Game Earning:**
+Players can earn the XERION coin by performing jobs in the Resonance universe. Points tokens are awarded in accordance with the points scale system of a given mini-game.
+
+   - **Open Market:**
+A specified percentage of each token will be made availble to trade on open markets via liquidity pools provided by ResonanceDAO through Kamino Finance. 
+
+   - **Treasury Swaps:**
 The Resonance Gaming Ecosystem is committed to fostering community participation and governance. To facilitate this, we have established a DAO treasury that allows players to swap their tokens for RESON, the token representing community governance within the ecosystem, at specified rates. These swaps are designed to encourage player involvement in shaping the ecosystem's future. 
 
 <i>The Resonance Council will be the absolute governing body until we have 10,000 active players.</i>
