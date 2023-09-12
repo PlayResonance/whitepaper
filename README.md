@@ -20,7 +20,7 @@ The tools we're crafting for Resonance hold a unique promise. These open-source 
 
 ## This project is looking for:
 
-We're seeking a team of talented collaborators who share my vision for Resonance and are passionate about contributing their expertise to make the project a success.
+We're seeking a team of talented collaborators who share our vision for Resonance and are passionate about contributing their expertise to make the project a success.
 
 **Storytellers and Lore Experts:** We're looking for creative minds who can dive deep into the lore of the game and develop intricate backstories for characters. If you have a knack for weaving emotional and evocative narratives that resonate with players, your input will be invaluable in enriching the storytelling experience.
 
