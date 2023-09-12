@@ -4,6 +4,20 @@
 
 Mech-Wing NFTs are a vital component of the Resonance Game's top-down shooter minigame. These NFTs represent customizable in-game assets that allow players to engage in exciting battles, earn points, and strategically upgrade their gameplay experience.
 
+In order to play the top-down shooter Mech Wing mini-game, players will need both a Play Resonance Token and Mech Wing Token. 
+
+## Gen1 Tokens and Initial Multiplier
+
+ResonanceDAO will mint a special Gen1 Collection for the Mech Wing tokens. These Gen1 tokens come with a unique advantage—a higher earning rate. Here's what you need to know:
+
+- **Distribution:** 50% of the Gen1 tokens will be distributed to contributors, while the remaining 50% will be listed for a Floor Price of 1 SOL.
+
+- **Trading Dynamics:** Contributors can freely trade their Gen1 tokens in the open market. However, ResonanceDAO will not be able to list Gen1 tokens below the Floor Price of 1 SOL. This ensures stability and discourages lowering the floor price.
+
+- **Earning Advantage:** Gen1 Tokens will have an initial multiplier, earning RPT at a rate 150% higher than standard player tokens and mech-wing tokens. This multiplier can stack with the Gen1 Mech Wing Tokens multiplier, and remains in effect indefinitely. 
+
+Investors and contributors can leverage this initial multiplier for potential rewards and enhanced gameplay within the Resonance ecosystem
+
 ## Key Features
 
 ### 1. Access to Top-Down Shooter Minigame
