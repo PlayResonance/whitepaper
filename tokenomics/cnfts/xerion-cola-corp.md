@@ -1,5 +1,17 @@
 # Xerion Cola Corp (XCC) cNFT Staking Roadmap
 
+## Kamino Market Making
+
+Xerion Cola Corp cNFTs will allow players to access a unique staking platform created using Kamino, a decentralized liquidity provider on Solana. The platform will enable the staking of a XerionCoin [XERION] liquidity pair, beginning with Solana. This pair will be able to be modified based on a vote for alternative pairs. 
+
+     - **Simulated Dividends:** Players will receive trading fees in their staked position, which will come with a 4th-Wall Disclaimer, indicating the risk of the exposure in the real world, safety tips, and exit strategies. The disclaimer specify that within the game, these trading fees will be viewed as “Dividends”, as if the player purchased stock in XerionCorp.
+
+This fun interactive earning opportunity will serve as an educational mechanism to encourage players to ‘DYOR’ regarding Decentralized Finance opportunities made possible by Solana. 
+
+     - **Platform Mechanics:** The XERION/SOL pair on Kamino will be hosted by ResonanceDAO, and each player’s stake will be contributed to the position. Players will receive 98% of their earned fees, 1% returns to the Resonance Community Reserve fund, and the remaining 1% is divided among the Team and Advisors. This ensures players receive the greatest earnings possible, while continuing to support the ecosystem. 
+
+Below is a general prospective outline for excecution. 
+
 ## Phase 1: Conceptualization and Planning
 - **Duration:** 1 month
 - **Concept Development:** The project team will develop a detailed concept for Xerion Cola Corp (XCC) cNFTs, outlining the lore element, utility, and rewards associated with staking.
