@@ -48,9 +48,9 @@ The Resonance Gaming Ecosystem consists of four key tokens, each serving a disti
 
 ## cNFTs
 
-Various in game assets will be represented by compressed NFTs with updatable metadata. These assets will allow players to fully customize their in-game experience, and take ownership of their character and belongings in the game like never before. These will be in the players wallet and available to list on secondary markets. 
+Various in game assets will be represented by compressed NFTs with updatable metadata. These assets will allow players to fully customize their in-game experience, and take ownership of their character and belongings in the game like never before. These assets will rest in the player's wallet and available to list on secondary markets. 
 
-[Here]() are 2 examples of the cNFTs we are developing. 
+[Here](https://github.com/PlayResonance/whitepaper/tree/main/tokenomics/cnfts) are 2 examples of the cNFTs we are developing. We are excited to share more as they become available.
 
 ## Roadmap and Development
 
