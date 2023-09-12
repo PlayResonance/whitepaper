@@ -1,5 +1,24 @@
 # Xerion Cola Corp (XCC) cNFT Staking Roadmap
 
+The Xerion Cola cNFT is a unique in-game asset that represents ownership of shares in Xerion Cola Corp within the Resonance game ecosystem. These cNFTs will have a staking mechanism, enabling players to invest in Xerion Cola Corp by staking XerionCoin, the native cryptocurrency of the game, paired with Solana, a popular blockchain, into a liquidity pool hosted on Kamino Finance.
+
+### Key Features:
+
+- **Ownership Representation**: Each Xerion Cola cNFT represents a specific number of shares or ownership in Xerion Cola Corp. The more cNFTs a player owns, the larger their ownership stake in the virtual corporation.
+
+- **Staking Mechanism**: Players can stake their XerionCoin and Solana tokens into a designated liquidity pool on Kamino Finance. This staking process effectively locks up their tokens in the pool.
+
+- **Earning Rewards**: By staking their tokens, players become liquidity providers, and they earn rewards from trading fees generated within the liquidity pool. These fees are a result of various in-game transactions, such as trading XerionCoin for other assets or using it in the game's economy.
+
+- **Liquidity Provision**: Staking XerionCoin and Solana into the liquidity pool helps provide liquidity to the in-game marketplace. This liquidity is essential for smooth and efficient trading within the game.
+
+- **Risk and Reward**: Players assume a level of risk by staking their tokens. While they have the potential to earn rewards, the value of their staked tokens may fluctuate based on market conditions and trading activity.
+
+- **Kamino Finance Integration**: Kamino Finance is the platform where the liquidity pool is hosted. It provides the infrastructure and tools necessary for staking and liquidity provision.
+
+In summary, Xerion Cola cNFTs are a novel way for players to engage with the game's ecosystem beyond traditional gameplay. They offer a unique ownership experience, allowing players to invest in a virtual corporation and earn rewards by providing liquidity through staking. This mechanism adds depth and utility to the in-game assets, contributing to the overall gaming experience in Resonance.
+
+
 ## Kamino Market Making
 
 Xerion Cola Corp cNFTs will allow players to access a unique staking platform created using Kamino, a decentralized liquidity provider on Solana. The platform will enable the staking of a XerionCoin [XERION] liquidity pair. Initially, this pair will be XERION/SOL. The selected pair will be able to be modified based on a vote for alternative XERION pairs. 
