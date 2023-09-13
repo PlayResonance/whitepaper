@@ -2,6 +2,15 @@
 
 The Play Resonance Token (PRT) is a fundamental in-game asset within the Resonance ecosystem, designed to empower players and enhance their gaming experience. PRTs serve as the key to accessing and enjoying the Resonance Game.
 
+### Create Custom Character cNFTs
+
+In the Resonance ecosystem, players are required to possess a Play Resonance cNFT to access the game. These cNFTs are essential for entry and come with unique characteristics. The minting process for these assets features an interactive character builder that offers players a range of options. They can choose from dozens of presets or engage in full customization of their character attributes.
+
+This interactive UI empowers players to shape their in-game persona according to their preferences. Upon finalizing their character's design, the minting process generates their unique Play token and stores it in their wallet. This Play token serves as the key to access various aspects of the game.
+
+These cNFTs are more than just entry passes; they contain a ledger of the player's points and metadata related to character upgrades. This information is crucial for tracking in-game progress and personalizing the gaming experience.
+
+
 ### Key Features:
 
 - **Required for Gameplay**: To participate in the Resonance Game, players need to possess and use PRTs. These tokens grant access to the game environment, where players can embark on adventures, complete challenges, and interact with the virtual world.
