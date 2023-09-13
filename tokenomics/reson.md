@@ -29,8 +29,8 @@
 ## Token Sale Details:
 - **Private Sale Details:** There is no private sale for RESON.
 - **Public Sale Details:** A portion of RESON is allocated for public sale at launch.
-- **Token Price:** Public sale price per RESON token is set at [Price].
-- **Lock-up Periods:** There may be a lock-up period for public sale participants to prevent immediate selling pressure.
+- **Token Price:** Public sale price per RESON token will be announced closer to the public sale event.
+- **Lock-up Periods:** There may be a lock-up period for public sale participants to prevent immediate selling pressure. More details will be announced closer to the public sale event.
 
 ## Token Value Drivers:
 - **Protocol Revenue Sources:** Revenue is generated from in-game purchases, ecosystem activities, and treasury swaps.
