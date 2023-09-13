@@ -1,16 +1,16 @@
-### Explore the Diverse Stores in Resonance
+## Explore the Diverse Stores in Resonance
 
 Within the Resonance universe, players will discover a vibrant array of in-game stores, each offering a unique shopping experience. From fashionable clothing and accessories to luxurious real estate and exquisite in-home decor, there's something for every taste and style.
 
-**Fair Pricing with XERION:** *Stable and Accessible In-Game Shopping*
+### **Fair Pricing with XERION:** *Stable and Accessible In-Game Shopping*
 
 In the Resonance gaming universe, accessibility and fairness are paramount when it comes to acquiring in-game assets. To achieve this, we've implemented a unique pricing mechanism that ensures stability and allows players to purchase items with ease.
 
-**XERION as the Currency:** All in-game assets, from clothing and accessories to real estate and furnishings, are exclusively purchased using XERION. This native token provides the foundation for the Resonance economy, facilitating seamless transactions within the game.
+- **XERION as the Currency:** All in-game assets, from clothing and accessories to real estate and furnishings, are exclusively purchased using XERION. This native token provides the foundation for the Resonance economy, facilitating seamless transactions within the game.
 
-**Pegged to USDC:** While XERION is the primary currency, the cost of items is pegged to the value of USDC (US Dollar Coin). This pegging ensures that the pricing remains stable and avoids potential market fluctuations that could affect the affordability of in-game assets.
+- **Pegged to USDC:** While XERION is the primary currency, the cost of items is pegged to the value of USDC (US Dollar Coin). This pegging ensures that the pricing remains stable and avoids potential market fluctuations that could affect the affordability of in-game assets.
 
-**Implicit Swaps for Payment:** When a player initiates a purchase at one of Veilbrook's stores, the checkout mechanism performs an implicit swap. This swap allows payment with any token of the player's choice, which is then converted to XERION at the current pegged USDC value. This approach guarantees that players can use their preferred tokens for transactions while maintaining the stability of asset pricing.
+- **Implicit Swaps for Payment:** When a player initiates a purchase at one of Veilbrook's stores, the checkout mechanism performs an implicit swap. This swap allows payment with any token of the player's choice, which is then converted to XERION at the current pegged USDC value. This approach guarantees that players can use their preferred tokens for transactions while maintaining the stability of asset pricing.
 
 By pegging the cost of items to a stable value like USDC and enabling implicit swaps, we prioritize fairness and accessibility, allowing players to enjoy a seamless and stable in-game shopping experience. Whether you're acquiring the latest fashion, decorating your virtual home, or expanding your in-game assets, you can do so with confidence in the pricing consistency.
 
@@ -24,7 +24,7 @@ Key Features:
 
 - **Asset Exchange:** The Thrift Store facilitates seamless asset swapping. Players can exchange their collected in-game items, such as clothing, for alternative assets that better suit their preferences. This flexibility enables players to continually fine-tune their virtual inventory.
 
-- **Item Listing:** Alternatively, players can list their cherished in-game items within the store, offering them to fellow players for acquisition using XERION—the game's native currency. This feature fosters a thriving in-game marketplace, where the Resonance community can buy, sell, and trade assets freely.
+- **Item Listing:** Alternatively, players can list their cherished found-in-game items within the store, offering them to fellow players for acquisition using XERION—the game's native currency. This feature fosters a thriving in-game marketplace, where the Resonance community can buy, sell, and trade assets freely.
 
 - **XerionCorp Tax:** It's worth noting that every transaction within the Thrift Store incurs a 3% tax, as stipulated by XerionCorp. This fee plays a crucial role in supporting the Resonance ecosystem and its growth. Collected taxes are contributed to the ResonanceDAO Treasury, where they fuel the development of new features, security enhancements, and community incentives.
 
