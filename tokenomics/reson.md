@@ -4,27 +4,24 @@
 - **Token Name:** Resonance
 - **Token Symbol:** RESON
 - **Token Type:** SPL Token (Solana Token)
-- **Total Supply:** 10,000,000 RESON
+- **Total Supply:** 10,000,000 RESON [<i>or</i> 10M]
 - **Mint Authority Status:** Controlled by a smart contract.
 
 ## Token Allocation:
 
 | Allocation Type                      | Amount             | Percentage   |
 | ----------------------------------- | ------------------- | ------------ |
-| Initial Circulating Supply          | 1,000,000 RESON     | 10%          |
-| Reserve Fund Allocation              | 2,000,000 RESON     | 20%          |
-| Team and Advisors Allocation        | 1,500,000 RESON     | 15%          |
-| Community and Ecosystem Allocation  | 3,000,000 RESON     | 30%          |
+| Initial Circulating Supply          | 1M RESON     | 10%          |
+| Reserve Fund Allocation              | 2M RESON     | 20%          |
+| Team and Advisors Allocation        | 1.5M RESON     | 15%          |
+| Community and Ecosystem Allocation  | 3M RESON     | 30%          |
 | Private Sale Allocation              | None                | 0%           |
-| Public Sale Allocation               | 2,000,000 RESON     | 20%          |
-| Liquidity Pool Allocation            | 500,000 RESON       | 5%           |
-
-
-
+| Public Sale Allocation               | 2M RESON     | 20%          |
+| Liquidity Pool Allocation            | .5M RESON       | 5%           |
 
 ## Token Utility:
 - **Use Cases:** RESON is the governance token for the Resonance Gaming Ecosystem, allowing token holders to participate in key governance decisions, proposals, and voting.
-- **Staking Details:** RESON holders may have the option to stake their tokens to earn governance rewards or participate in liquidity provision.
+- **Staking Details:** RESON holders may have the option to stake their XERION and/or RPT tokens to increase their voting power within the ecosystem.
 - **Governance Details:** RESON holders have voting rights in the DAO, influencing decisions, upgrades, and ecosystem development.
 - **Rewards Mechanisms:** Active participation in governance may result in rewards or incentives.
 - **Burn Mechanism:** There is no burn mechanism for RESON.
