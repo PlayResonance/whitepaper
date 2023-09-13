@@ -42,6 +42,23 @@ Key Features:
 
 This feature adds a new layer of immersion to the Resonance experience, allowing players to create a virtual home and decorate it according to their preferences. Whether it's a cozy hideaway or a stylish abode, your Veilbrook residence is yours to design and enjoy within the rich and ever-evolving world of Resonance.
 
+**Customize and Monetize Your Virtual Home**
+
+In the Resonance universe, your home in Veilbrook isn't just a static virtual space; it's a canvas for creativity and a potential source of income. The Portals NFTs representing players' homes come with a unique twist – they can be customized, modified, and even listed on secondary markets.
+
+**Unlock Home Customization:** Your Portals NFT is more than just a place to rest in the game; it's a dynamic asset that you can personalize to your heart's content. Players with a knack for interior design and creativity can unleash their imagination by customizing their virtual homes. Whether it's changing room layouts, adding new furnishings, or redecorating, the possibilities are endless.
+
+**Monetize Your Real Estate:** Veilbrook's thriving community offers players the option to turn their virtual homes into a source of income. Imagine finishing rooms, creating themed spaces, or designing unique environments that other players might desire. You can then list these modified rooms on secondary markets for sale or rent, transforming your creativity into tangible value.
+
+**Renting Made Easy:** If you choose to rent your customized rooms, the process is straightforward. The cost to rent a home is calculated as the price of the NFT divided by 12, resulting in monthly payments equivalent to a yearly lease value of the NFT. Players have the freedom to set their rental prices according to the uniqueness and appeal of their customized spaces.
+
+**Marketplace Opportunities:** All listed rooms, whether for sale or rent, become part of Veilbrook's thriving marketplace. This means other players can explore and choose from a variety of creative living spaces, each with its own unique charm and style.
+
+**Xerion Cola Corp Tax:** Keep in mind that Xerion Cola Corp, a key element of the Resonance universe, receives a 1% tax on all real estate transactions within Veilbrook. This tax contributes to the in-game economy and ecosystem, ensuring a balanced and sustainable virtual world.
+
+So, whether you're an aspiring interior designer, a savvy entrepreneur, or simply looking to personalize your virtual space, the ability to modify and monetize your Portals NFT home opens up exciting opportunities in Veilbrook. Turn your creativity into a profitable venture and make your virtual home truly unique.
+
+
 ## **XYKEA** *Your Everything Store*
 
 Welcome to XYKEA, the one-stop shop for all your in-game furnishing and decoration needs. XYKEA stands as the ultimate destination where players can find a wide array of items to personalize and elevate their virtual homes in Veilbrook.
