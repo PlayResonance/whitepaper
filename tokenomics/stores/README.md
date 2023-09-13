@@ -2,6 +2,13 @@
 
 Within the Resonance universe, players will discover a vibrant array of in-game stores, each offering a unique shopping experience. From fashionable clothing and accessories to luxurious real estate and exquisite in-home decor, there's something for every taste and style.
 
+#### Table of Contents:
+- [Fair Pricing with XERION](#fair-pricing-with-xerion)
+- [Thrift Store](#thrift-store)
+- [Real Estate in Veilbrook](#real-estate-in-veilbrook)
+- [XYKEA: Your Everything Store](#xykea-your-everything-store)
+- [Library](#library)
+
 ### **Fair Pricing with XERION:** *Stable and Accessible In-Game Shopping*
 
 In the Resonance gaming universe, accessibility and fairness are paramount when it comes to acquiring in-game assets. To achieve this, we've implemented a unique pricing mechanism that ensures stability and allows players to purchase items with ease.
@@ -42,19 +49,19 @@ Key Features:
 
 This feature adds a new layer of immersion to the Resonance experience, allowing players to create a virtual home and decorate it according to their preferences. Whether it's a cozy hideaway or a stylish abode, your Veilbrook residence is yours to design and enjoy within the rich and ever-evolving world of Resonance.
 
-**Customize and Monetize Your Virtual Home**
+### **Customize and Monetize Your Virtual Home**
 
 In the Resonance universe, your home in Veilbrook isn't just a static virtual space; it's a canvas for creativity and a potential source of income. The Portals NFTs representing players' homes come with a unique twist – they can be customized, modified, and even listed on secondary markets.
 
-**Unlock Home Customization:** Your Portals NFT is more than just a place to rest in the game; it's a dynamic asset that you can personalize to your heart's content. Players with a knack for interior design and creativity can unleash their imagination by customizing their virtual homes. Whether it's changing room layouts, adding new furnishings, or redecorating, the possibilities are endless.
+- **Unlock Home Customization:** Your Portals NFT is more than just a place to rest in the game; it's a dynamic asset that you can personalize to your heart's content. Players with a knack for interior design and creativity can unleash their imagination by customizing their virtual homes. Whether it's changing room layouts, adding new furnishings, or redecorating, the possibilities are endless.
 
-**Monetize Your Real Estate:** Veilbrook's thriving community offers players the option to turn their virtual homes into a source of income. Imagine finishing rooms, creating themed spaces, or designing unique environments that other players might desire. You can then list these modified rooms on secondary markets for sale or rent, transforming your creativity into tangible value.
+- **Monetize Your Real Estate:** Veilbrook's thriving community offers players the option to turn their virtual homes into a source of income. Imagine finishing rooms, creating themed spaces, or designing unique environments that other players might desire. You can then list these modified rooms on secondary markets for sale or rent, transforming your creativity into tangible value.
 
-**Renting Made Easy:** If you choose to rent your customized rooms, the process is straightforward. The cost to rent a home is calculated as the price of the NFT divided by 12, resulting in monthly payments equivalent to a yearly lease value of the NFT. Players have the freedom to set their rental prices according to the uniqueness and appeal of their customized spaces.
+- **Renting Made Easy:** If you choose to rent your customized rooms, the process is straightforward. The cost to rent a home is calculated as the price of the NFT divided by 12, resulting in monthly payments equivalent to a yearly lease value of the NFT. Players have the freedom to set their rental prices according to the uniqueness and appeal of their customized spaces.
 
-**Marketplace Opportunities:** All listed rooms, whether for sale or rent, become part of Veilbrook's thriving marketplace. This means other players can explore and choose from a variety of creative living spaces, each with its own unique charm and style.
+- **Marketplace Opportunities:** All listed rooms, whether for sale or rent, become part of Veilbrook's thriving marketplace. This means other players can explore and choose from a variety of creative living spaces, each with its own unique charm and style.
 
-**Xerion Cola Corp Tax:** Keep in mind that Xerion Cola Corp, a key element of the Resonance universe, receives a 1% tax on all real estate transactions within Veilbrook. This tax contributes to the in-game economy and ecosystem, ensuring a balanced and sustainable virtual world.
+- **Xerion Cola Corp Tax:** Keep in mind that Xerion Cola Corp, a key element of the Resonance universe, receives a 1% tax on all real estate transactions within Veilbrook. This tax contributes to the in-game economy and ecosystem, ensuring a balanced and sustainable virtual world.
 
 So, whether you're an aspiring interior designer, a savvy entrepreneur, or simply looking to personalize your virtual space, the ability to modify and monetize your Portals NFT home opens up exciting opportunities in Veilbrook. Turn your creativity into a profitable venture and make your virtual home truly unique.
 
@@ -63,21 +70,39 @@ So, whether you're an aspiring interior designer, a savvy entrepreneur, or simpl
 
 Welcome to XYKEA, the one-stop shop for all your in-game furnishing and decoration needs. XYKEA stands as the ultimate destination where players can find a wide array of items to personalize and elevate their virtual homes in Veilbrook.
 
-**Furniture Galore:** XYKEA offers an extensive collection of furniture pieces to cater to every player's taste and style. Whether you're into modern minimalism, classic elegance, or eclectic designs, you'll discover a diverse range of furnishings to transform your virtual living spaces.
+- **Furniture Galore:** XYKEA offers an extensive collection of furniture pieces to cater to every player's taste and style. Whether you're into modern minimalism, classic elegance, or eclectic designs, you'll discover a diverse range of furnishings to transform your virtual living spaces.
 
-**Decorate with Flair:** Elevate the aesthetics of your virtual home with an assortment of decorations available at XYKEA. From exquisite wall art and stylish vases to unique sculptures and vibrant rugs, you can curate the perfect ambiance for your in-game sanctuary.
+- **Decorate with Flair:** Elevate the aesthetics of your virtual home with an assortment of decorations available at XYKEA. From exquisite wall art and stylish vases to unique sculptures and vibrant rugs, you can curate the perfect ambiance for your in-game sanctuary.
 
-**Customization at Your Fingertips:** At XYKEA, customization is key. Players have the freedom to mix and match furniture and decor items to create unique and personalized living spaces. Experiment with various combinations to reflect your style and personality within the Resonance universe.
+- **Customization at Your Fingertips:** At XYKEA, customization is key. Players have the freedom to mix and match furniture and decor items to create unique and personalized living spaces. Experiment with various combinations to reflect your style and personality within the Resonance universe.
 
-**Quality and Affordability:** XYKEA prides itself on offering high-quality virtual furnishings and decorations at affordable prices. We believe that every player should have the opportunity to create their dream home within the game without breaking the bank.
+- **Quality and Affordability:** XYKEA prides itself on offering high-quality virtual furnishings and decorations at affordable prices. We believe that every player should have the opportunity to create their dream home within the game without breaking the bank.
 
-**XERION for Convenience:** While the cost of items is pegged to the stable value of USDC, XYKEA accepts XERION as the primary currency for transactions. This ensures a convenient and seamless shopping experience, making it easy for players to enhance their in-game homes.
+- **XERION for Convenience:** While the cost of items is pegged to the stable value of USDC, XYKEA accepts XERION as the primary currency for transactions. This ensures a convenient and seamless shopping experience, making it easy for players to enhance their in-game homes.
 
 XYKEA is not just a store; it's a hub of creativity and self-expression where players can unleash their interior design skills and transform their virtual homes into personalized masterpieces. Explore the diverse selection, let your imagination run wild, and make your virtual living space a true reflection of your unique style and taste.
 
 ## **Library:** 
 
-Immerse yourself in knowledge and culture at the Library. This virtual haven is home to an extensive collection of literary works, digital volumes, and historical manuscripts. Collecting books from the Library enhances your in-game character's intellectual depth, contributing to their personal story and knowledge. Reading at the Library is free, however there will be a unique opportunity for players to create works of their own, contribute to the lore, or list them them in the Boom Shop, stimulating a unique economy among creative Resonance players. 
+Immerse yourself in knowledge and culture at the Library. This virtual haven is home to an extensive collection of literary works, digital volumes, and historical manuscripts. Collecting books from the Library enhances your in-game character's intellectual depth, contributing to their personal story and knowledge. Reading at the Library is free, however there will be a unique opportunity for players to create works of their own, contribute to the lore, or list them them in the Book Shop, stimulating a unique economy among creative Resonance players. 
+
+### **Crafting Literary Works: Unleash Your Creativity**
+
+In the Resonance universe, the art of storytelling takes on a new dimension with our innovative bookwriting feature. Whether you're an aspiring wordsmith or a seasoned author, you'll find endless opportunities to craft literary works that leave a mark on the game's lore and immerse players in captivating narratives.
+
+- **AI-Powered Prompt Generation:** The heart of our bookwriting system lies in its AI-generated prompts. When you embark on your literary journey, you'll be presented with a myriad of words, themes, and ad-lib style prompts that spark your creativity. These prompts cover a wide range of genres, from lore and non-fiction to poetry and more, ensuring that every author finds inspiration that resonates with them.
+
+- **Craft Your Unique Narrative:** With the power of AI-generated prompts at your fingertips, you can tailor your literary work to suit your vision. Combine words and themes to weave intricate stories, delve into the game's lore, or create entirely new facets of the Resonance universe. The creative possibilities are limited only by your imagination.
+
+- **Contributing to the Lore:** One of the most exciting aspects of bookwriting in Resonance is the opportunity to contribute to the game's lore. Your literary creations can become part of the rich narrative tapestry that envelops players, adding depth and immersion to the gaming experience. As your stories are discovered and appreciated by the community, they become an integral part of the Resonance universe.
+
+- **Diverse Genres and Styles:** Whether you prefer epic sagas, whimsical poetry, historical accounts, or tales of mystery and intrigue, our bookwriting feature accommodates a multitude of genres and styles. You can switch between different writing modes to explore various creative avenues and find your unique voice within the Resonance literary world.
+
+- **A Literary Exchange:** Once your literary masterpiece is complete, you can choose to share it with the Resonance community by listing it in the Book Shop. Here, fellow players can discover, enjoy, and even acquire your works, fostering a thriving literary exchange within the game.
+
+- **Fuel Your Imagination:** The bookwriting feature in Resonance is more than just a creative outlet; it's a way to fuel your imagination and contribute to the ever-evolving narrative of the game. As you craft stories that resonate with players, you become a storyteller in the truest sense, leaving a lasting impact on the Resonance universe.
+
+So, whether you're crafting lore that deepens the game's storyline, penning heartfelt poetry, or embarking on epic adventures, our AI-generated prompts and bookwriting system empower you to be the author of your own Resonance tales.
 
 
 ## More to Come! 
