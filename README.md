@@ -4,6 +4,7 @@ Resonance Literature
 - [Tokenomics](https://github.com/PlayResonance/whitepaper/tree/main/tokenomics)<br>
 - [Roadmap](https://github.com/PlayResonance/whitepaper/tree/main#roadmap)<br>
 - [Lore](https://github.com/PlayResonance/lore)<br>
+- [Portals](https://github.com/PlayResonance/whitepaper/blob/main/portals.md)<br>
 - [Funding Goals](https://github.com/PlayResonance/whitepaper/blob/main/funding-goals.md)<br>
 - [Links](https://github.com/PlayResonance/whitepaper/blob/main/links.md)
 ___________________
