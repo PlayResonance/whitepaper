@@ -123,7 +123,7 @@ Duration: Ongoing
 - Continuously update the project roadmap based on community feedback and emerging opportunities.
 - Explore additional features, collaborations, and partnerships to enhance the game.
 
-# Declaration of Competency
+## Declaration of Competency
 
 ### Clarity and Transparency:
 
