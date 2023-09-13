@@ -3,11 +3,11 @@
 Within the Resonance universe, players will discover a vibrant array of in-game stores, each offering a unique shopping experience. From fashionable clothing and accessories to luxurious real estate and exquisite in-home decor, there's something for every taste and style.
 
 #### Table of Contents:
-- [Fair Pricing with XERION](#fair-pricing-with-xerion)
-- [Thrift Store](#thrift-store)
-- [Real Estate in Veilbrook](#real-estate-in-veilbrook)
-- [XYKEA: Your Everything Store](#xykea-your-everything-store)
-- [Library](#library)
+- [Fair Pricing with XERION](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/stores/README.md#fair-pricing-with-xerion-stable-and-accessible-in-game-shopping)
+- [Thrift Store](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/stores/README.md#thrift-store-a-unique-asset-swapping-hub)
+- [Real Estate in Veilbrook](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/stores/README.md#real-estate-in-veilbrook-create-your-dream-home)
+- [XYKEA: Your Everything Store](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/stores/README.md#xykea-your-everything-store)
+- [The Library](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/stores/README.md#library)
 
 ### **Fair Pricing with XERION:** *Stable and Accessible In-Game Shopping*
 
@@ -82,7 +82,7 @@ Welcome to XYKEA, the one-stop shop for all your in-game furnishing and decorati
 
 XYKEA is not just a store; it's a hub of creativity and self-expression where players can unleash their interior design skills and transform their virtual homes into personalized masterpieces. Explore the diverse selection, let your imagination run wild, and make your virtual living space a true reflection of your unique style and taste.
 
-## **Library:** 
+## **The Library:** 
 
 Immerse yourself in knowledge and culture at the Library. This virtual haven is home to an extensive collection of literary works, digital volumes, and historical manuscripts. Collecting books from the Library enhances your in-game character's intellectual depth, contributing to their personal story and knowledge. Reading at the Library is free, however there will be a unique opportunity for players to create works of their own, contribute to the lore, or list them them in the Book Shop, stimulating a unique economy among creative Resonance players. 
 
