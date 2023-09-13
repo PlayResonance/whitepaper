@@ -1,14 +1,14 @@
 ## Integration with Portals NFTs
 
-Resonance is excited to announce our partnership with Portals, a prominent browser-based metaverse platform, to introduce an innovative feature that enhances the player experience within the Resonance Universe. Through this collaboration, we are creating a specialized template exclusively for the Resonance Universe within the Portals ecosystem.
+The entire Resonance Universe is meticulously crafted within the Portals ecosystem, offering players an immersive and interconnected experience like never before. Within this universe, players will encounter a myriad of mini-games, stores, staking platforms, and various other protocols seamlessly integrated into the fabric of the game. These elements come together to create a rich and diverse gaming experience that seamlessly blends open-world exploration, intricate puzzle-solving, and unique play-to-earn opportunities.
 
 ### Genesis Pods NFTs
 
-These unique NFTs, known as "Genesis Pods," grant Resonance players exceptional building capabilities within the Portals universe. Players can acquire a Genesis Pod, and select the Resonance Template, allowing them to purchase and personalize a home in Veilbrook, a central location within the game world. These homes serve as a canvas for players to unleash their creativity, as they can decorate and furnish their living spaces with assets acquired through in-game activities, such as shopping at various stores or winning prizes.
+These unique NFTs, known as "Genesis Pods," grant Resonance players exceptional building capabilities within the Portals universe. Players can equip a Genesis Pod with a custom Resonance template, allowing them to purchase and personalize a home in Veilbrook, a central location within the game world. These homes serve as a canvas for players to unleash their creativity, as they can decorate and furnish their living spaces with assets acquired through in-game activities such as shopping at various stores, or winning prizes.
 
 ### Customizing Your Game Experience
 
-The introduction of Resonance Genesis Pods offers players an unparalleled opportunity to customize and personalize their gaming experience. These virtual homes become a reflection of the player's style and preferences, fostering a deeper connection to the Resonance Universe.
+The introduction of Genesis Pods offers Resonance players an unparalleled opportunity to customize and personalize their gaming experience. These virtual homes become a reflection of the player's style and preferences, fostering a deeper connection to the Resonance Universe. Players can visit one another's spaces seemlessly, creating a community within the game itself.
 
 ### Royalties and Symbiosis
 
