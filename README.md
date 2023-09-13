@@ -22,13 +22,13 @@ The tools we're crafting for Resonance hold a unique promise. These open-source 
 
 We're seeking a team of talented collaborators who share our vision for Resonance and are passionate about contributing their expertise to make the project a success.
 
-**Storytellers and Lore Experts:** We're looking for creative minds who can dive deep into the lore of the game and develop intricate backstories for characters. If you have a knack for weaving emotional and evocative narratives that resonate with players, your input will be invaluable in enriching the storytelling experience.
+- **Storytellers and Lore Experts:** We're looking for creative minds who can dive deep into the lore of the game and develop intricate backstories for characters. If you have a knack for weaving emotional and evocative narratives that resonate with players, your input will be invaluable in enriching the storytelling experience.
 
-**Back-End Developers:** A solid technical foundation is crucial to ensure the safety, efficiency, and excitement of our in-game mechanisms. If you're a skilled back-end developer experienced in blockchain technology, DeFi integration, and creating secure and scalable systems, your contributions will be pivotal in delivering a seamless and enjoyable experience to our players.
+- **Back-End Developers:** A solid technical foundation is crucial to ensure the safety, efficiency, and excitement of our in-game mechanisms. If you're a skilled back-end developer experienced in blockchain technology, DeFi integration, and creating secure and scalable systems, your contributions will be pivotal in delivering a seamless and enjoyable experience to our players.
 
-**Visual Artists and Character Designers:** Enriching the visual aspects of the game is essential to captivate players' imagination. If you have a talent for creating captivating art, crafting immersive environments, and breathing life into characters, your artistic flair will play a significant role in bringing the world of Resonance to life.
+- **Visual Artists and Character Designers:** Enriching the visual aspects of the game is essential to captivate players' imagination. If you have a talent for creating captivating art, crafting immersive environments, and breathing life into characters, your artistic flair will play a significant role in bringing the world of Resonance to life.
 
-**NFT Creators:** As NFTs become an integral part of the gaming landscape, We're seeking collaborators with expertise in designing and minting NFT collections that represent our game assets. If you're passionate about creating unique, visually striking, and meaningful NFTs that resonate with players and collectors alike, your skills will help us build a thriving in-game economy.
+- **NFT Creators:** As NFTs become an integral part of the gaming landscape, We're seeking collaborators with expertise in designing and minting NFT collections that represent our game assets. If you're passionate about creating unique, visually striking, and meaningful NFTs that resonate with players and collectors alike, your skills will help us build a thriving in-game economy.
 
 Together, our collaborative efforts will shape the Resonance experience into something truly exceptional. If you're driven by creativity, innovation, and a shared passion for creating an immersive, engaging, and rewarding gaming universe, We invite you to join us on this exciting journey.
 
