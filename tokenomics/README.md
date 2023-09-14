@@ -18,7 +18,7 @@ The Resonance Gaming Ecosystem consists of four key tokens, each serving a disti
    - Role: In-Game Reward Points
    - Functionality:
      - Awarded to players based on their in-game performance in a 1:1 ratio with the points they score.
-     - Used for upgrading player assets, represented by cNFTs, enhancing various gameplay elements.
+     - Used for upgrading Play Resonance Tokens, enhancing various gameplay elements.
    - Connection to Game Assets:
      - RPT serves as the in-game currency to purchase upgrades for Game Asset cNFTs, enhancing players' gaming experience.
 
