@@ -2,6 +2,7 @@
 Resonance Literature 
 
 - [Tokenomics](https://github.com/PlayResonance/whitepaper/tree/main/tokenomics)<br>
+- [Roles](https://github.com/PlayResonance/whitepaper/tree/main/tokenomics/roles)
 - [Stores](https://github.com/PlayResonance/whitepaper/tree/main/tokenomics/stores)<br>
 - [Roadmap](https://github.com/PlayResonance/whitepaper/tree/main#roadmap)<br>
 - [Lore](https://github.com/PlayResonance/lore)<br>
