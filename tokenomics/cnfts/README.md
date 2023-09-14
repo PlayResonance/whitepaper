@@ -11,16 +11,16 @@ Welcome to the Resonance Game's cNFT ecosystem! This is an overview of the vario
 
 ---
 
-## Contributor Tokens (FUNDR)
+## Contributor Token (FUNDR)
 
 Contributor Tokens are the initial tokens available for minting in the Resonance Gaming Ecosystem. With a capped supply of 100 tokens and a price of $1000 per token (payable in SOL), FUNDR tokens reward contributors with 1% of the ResonanceDAO Treasury emissions. As active participants in governance, Contributors also receive RESON token airdrops to encourage their continued involvement in shaping the project's future. FUNDR tokens represent a unique opportunity for early contributors to become valued stakeholders in Resonance's success.
 
 ## Play Resonance Token (PRT)
 
-PRT is your passport to the Resonance Game, granting access, tracking progress, and enhancing gameplay.
+PRT is your passport to the Resonance Game, granting access, tracking progress, and enhancing gameplay. This token contains the points data, unique character info such as level and appearance, and ethics class, which impacts dialog options.
 
 
-## Xerion Cola Corp Staking NFT
+## Xerion Cola Corp Token
 
 **Xerion Cola Corp (XCC) cNFTs** represent a unique opportunity for players to stake their XerionCoin (XERION) and Solana (SOL) into a Kamino position within the game. By staking XERION and SOL, players invest in Xerion Cola Corporation, a lore element of the game, and earn staking rewards.
 
@@ -29,7 +29,7 @@ PRT is your passport to the Resonance Game, granting access, tracking progress, 
 
 ---
 
-## Upgradeable Mech-Wing NFT
+## Upgradeable Mech-Wing Token
 
 **Mech-Wing cNFTs** are in-game assets required to play the top-down shooter minigame within Resonance. Players spawn the Mech-Wing NFT to begin the game, gain points for destroying enemies, and use these points to upgrade their Mech-Wing. Upgrades modify the metadata of the cNFT, enhancing firepower, weapons, defense, and more.
 
