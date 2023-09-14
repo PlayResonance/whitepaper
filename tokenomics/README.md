@@ -43,8 +43,8 @@ The Resonance Gaming Ecosystem consists of four key tokens, each serving a disti
 
 - [Pre-10,000] Until there are 10,000 players, governance will be overseen by the ResonanceDAO Council.
 - [Post-10,000] After Resonance crosses 10,000 active players, we will iniate a vote to swap to community governance.
-- RPT will be required for in-game upgrades to assets represented by cNFTs which can be listed on secondary in compete with costs incurred from RPT-upgrades to create an in-game economy between new and existing players, allowing newcomers to acquire upgrades at potentially lower costs.
-- XERION is the primary asset for staking in Xerion Cola Corp (XCC), introducing an investment element to the gaming experience.
+- RPT will be required for in-game upgrades to the Play Resonance Token [PRT], which can be listed on secondary in compete with costs incurred from RPT-upgrades to create an in-game economy between new and existing players, allowing newcomers to acquire upgrades at potentially lower costs.
+- XERION is the primary asset for purchasing goods in-game, such as furniture, real estate, clothing etc. It can be staked with SOL by players with the Xerion Cola Corp (XCC), introducing an investment element to the gaming experience. 
 - RESON holders will eventually have a governance role in shaping the ecosystem's decisions, including those related to RESON token utility and distribution.
 
 ## Token Availability  
