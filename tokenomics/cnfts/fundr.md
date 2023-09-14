@@ -21,5 +21,3 @@ This revenue allocation is part of the broader strategy to ensure that Contribut
 Contributors, being integral to the project's development and direction, will receive an airdrop of a designated allocation of RESON tokens. This airdrop is intended to incentivize their active engagement in the governance processes of the ResonanceDAO. Through their participation in governance, Contributors have a direct say in critical decisions, proposals, and initiatives that shape the future of the Resonance Gaming Ecosystem.
 
 The FUNDR tokens are a unique opportunity for early contributors to become actively engaged stakeholders in the project, aligning their interests with the long-term success and growth of Resonance.
-
-[Learn more about Resonance Tokens](#) - Link to additional token details if available.
