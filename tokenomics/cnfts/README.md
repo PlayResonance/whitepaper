@@ -3,6 +3,7 @@
 Welcome to the Resonance Game's cNFT ecosystem! This is an overview of the various cNFTs available in the game, including the Play Resonance Token, the Xerion Cola Corp Token and the Mech-Wing Token.
 
 ## Table of Contents
+- [Contributor Token](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/cnfts/fundr.md)
 - [Play Resonance Token](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/cnfts/prt.md)
 - [Xerion Cola Corp Token](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/cnfts/xerion-cola-corp.md)
 - [Mech-Wing Token](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/cnfts/mech-wing.md)
