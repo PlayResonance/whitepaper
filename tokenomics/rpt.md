@@ -19,8 +19,15 @@
 
 ## Token Utility:
 - **Use Cases:** RPT is awarded to players for participating in minigames and can be used to upgrade player assets represented by cNFTs within the game.
-- **Rewards Mechanisms:** Players can earn RPT as rewards for achieving high scores in minigames.
+- **Rewards Mechanisms:** Players can earn RPT as rewards for earning points in minigames.
 - **Burn Mechanism:** There is no burn mechanism for RPT.
+
+### Upgradable Play Resonance cNFT
+
+The Play Resonance Token [PRT] represents the player's access pass to the game. It contains their points and avatar GLB link which the space loads upon entry. This allows players to customize their appearance within the game by using their Resonance Points Tokens [RPT] to purchase traits or clothing to enhance their player experience. 
+
+- **Points Tiers:**
+  As players accumulate points tokens, they gain access to higher level items. The high-waterline of their points is recorded in the metadata of the cNFT to preserve the level status as they expend RPT to upgrade their PRT. 
 
 ## Token Sale Details:
 - **Private Sale Details:** There is no private sale for RPT.
