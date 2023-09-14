@@ -47,6 +47,8 @@ The DAO treasury, a crucial component of ResonanceDAO, is primarily funded throu
 
 2. **Staking Fees:** A portion of the staking fees generated via in-game staking mechanisms is allocated to the treasury. This mechanism encourages users to participate in staking, thereby contributing to the treasury's growth.
 
+3. **Xerion Cola Corporation Taxation:** This lore-based entity imposes a 3% additional tax on transactions in the game.
+
 ### Functions of the Treasury
 
 The DAO treasury serves several vital functions:
@@ -54,6 +56,8 @@ The DAO treasury serves several vital functions:
 1. **Development Funding:** One of its primary roles is to fund and foster development efforts. This includes offering bounties for improvements to the game, development of new mini-games, enhancing ecosystem security, and other initiatives aimed at advancing the project.
 
 2. **Emergency Reserves:** The treasury also acts as a reserve in the event of unforeseen emergencies, such as security breaches, exploits, or vulnerabilities within the ecosystem. These funds can be swiftly deployed to address and mitigate such issues.
+
+3. **Dividends:** The majority of the Revenue into the Treasury is divided among all [Roles](https://github.com/PlayResonance/whitepaper/tree/main/tokenomics/roles)
 
 ### Community-Driven Growth
 
