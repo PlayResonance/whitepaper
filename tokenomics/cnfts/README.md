@@ -11,6 +11,10 @@ Welcome to the Resonance Game's cNFT ecosystem! This is an overview of the vario
 
 ---
 
+## Contributor Tokens (FUNDR)
+
+Contributor Tokens are the initial tokens available for minting in the Resonance Gaming Ecosystem. With a capped supply of 100 tokens and a price of $1000 per token (payable in SOL), FUNDR tokens reward contributors with 1% of the ResonanceDAO Treasury emissions. As active participants in governance, Contributors also receive RESON token airdrops to encourage their continued involvement in shaping the project's future. FUNDR tokens represent a unique opportunity for early contributors to become valued stakeholders in Resonance's success.
+
 ## Play Resonance Token (PRT)
 
 PRT is your passport to the Resonance Game, granting access, tracking progress, and enhancing gameplay.
