@@ -16,7 +16,7 @@ ResonanceDAO will mint a special Gen1 Collection for the Mech Wing tokens. These
 
 - **Earning Advantage:** Gen1 Tokens will have an initial multiplier, earning RPT at a rate 150% higher than standard player tokens and mech-wing tokens. This multiplier can stack with the Gen1 Mech Wing Tokens multiplier, and remains in effect indefinitely. 
 
-Investors and contributors can leverage this initial multiplier for potential rewards and enhanced gameplay within the Resonance ecosystem
+Investors and contributors can leverage this initial multiplier for potential rewards and enhanced gameplay within the Resonance ecosystem, for additional spending power in the game, or greater governance power down the road.
 
 ## Key Features
 
