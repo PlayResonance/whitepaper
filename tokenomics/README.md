@@ -75,7 +75,7 @@ We encourage players to stay engaged with the ecosystem, participate in governan
 
 Various in game assets will be represented by compressed NFTs with updatable metadata. These assets will allow players to fully customize their in-game experience, and take ownership of their character and belongings in the game like never before. These assets will rest in the player's wallet and available to list on secondary markets. 
 
-[Here](https://github.com/PlayResonance/whitepaper/tree/main/tokenomics/cnfts) are 3 examples of the cNFTs we are developing. We are excited to share more as they become available.
+[Here](https://github.com/PlayResonance/whitepaper/tree/main/tokenomics/cnfts) are the cNFTs we are developing. We are excited to share more as they become available.
 
 ## Roadmap and Development
 
