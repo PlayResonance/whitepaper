@@ -2,6 +2,8 @@
 
 ## Overview
 
+![tokenomics diagram](https://cdn.discordapp.com/attachments/1051281685234327613/1152040985904295936/image.png)
+
 The Resonance Gaming Ecosystem consists of four key tokens, each serving a distinct purpose within the gaming environment. These tokens work together to create a dynamic and engaging gaming experience for players while offering opportunities for governance and investment. Here's a brief overview of the interrelationship between these tokens:
 
 1. **[XerionCoin (XERION)](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/xerioncoin.md)**
