@@ -29,7 +29,7 @@ PRT is your passport to the Resonance Game, granting access, tracking progress, 
 
 ---
 
-## Upgradeable Mech-Wing Token
+## Mech-Wing Token
 
 **Mech-Wing cNFTs** are in-game assets required to play the top-down shooter minigame within Resonance. Players spawn the Mech-Wing NFT to begin the game, gain points for destroying enemies, and use these points to upgrade their Mech-Wing. Upgrades modify the metadata of the cNFT, enhancing firepower, weapons, defense, and more.
 
@@ -62,7 +62,7 @@ PRT is your passport to the Resonance Game, granting access, tracking progress, 
 
 Within the Resonance gaming ecosystem, all semi-fungible (SFTs), compressed non-fungible (cNFTs), programmable NFTs (pNFTs), and non-fungible tokens (NFTs) will have royalties enforced. These royalties ensure that creators and contributors continue to benefit from the ecosystem's growth. Here's how they work:
 
-- **Royalty Percentage:** 3% of the transaction value for these tokens will be allocated as royalties.
+- **Royalty Percentage:** 3% of the transaction value for these tokens, <i>(This excludes the Contributor token, which will have 30% royalties enforced)</i>, will be allocated as royalties.
 
 - **Team and Advisors:** 1.5% of the royalties collected will be directed to the Team and Advisors as recognition for their contributions and involvement in the project.
 
