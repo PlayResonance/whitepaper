@@ -9,7 +9,8 @@ Resonance Literature
 - [Lore](https://github.com/PlayResonance/lore)<br>
 - [Portals](https://github.com/PlayResonance/whitepaper/blob/main/portals.md)<br>
 - [Funding Goals](https://github.com/PlayResonance/whitepaper/blob/main/funding-goals.md)<br>
-- [Links](https://github.com/PlayResonance/whitepaper/blob/main/links.md)
+- [Links](https://github.com/PlayResonance/whitepaper/blob/main/links.md)<br>
+- [Terms of Service](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/legal/README.md)
 ___________________
 
 ## Project TLDR
