@@ -202,13 +202,13 @@ Resonance may suspend user accounts temporarily as a disciplinary measure in res
 
 Resonance will provide notice of suspension and reasons for it, except in cases where immediate action is necessary to protect the ecosystem or its users.
 
-Users are encouraged to review and understand the Code of Conduct and other relevant policies to avoid actions that may lead to account termination or suspension.
+Users are encouraged to review and understand the [Code of Conduct](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/legal/codeofconduct.md) and other relevant policies to avoid actions that may lead to account termination or suspension.
 
 # VIII. Privacy and Data
 
 ## A. Data Collection and Use
 
-Resonance respects user privacy and is committed to transparent data collection and usage practices. By participating in the Resonance Gaming Ecosystem, you acknowledge and consent to the collection and use of certain data as outlined in our Privacy Policy. The data collected may include, but is not limited to, information related to your account, gameplay, and interactions within the ecosystem.
+Resonance respects user privacy and is committed to transparent data collection and usage practices. By participating in the Resonance Gaming Ecosystem, you acknowledge and consent to the collection and use of certain data as outlined in our [Privacy Policy](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/legal/privacypolicy.md). The data collected may include, but is not limited to, information related to your account, gameplay, and interactions within the ecosystem.
 
 ## B. User Privacy Rights
 
@@ -219,7 +219,7 @@ Resonance recognizes and upholds the privacy rights of its users. Users have the
 - The right to receive information about the purposes and recipients of their personal data.
 - The right to lodge complaints regarding data processing practices.
 
-For more details on these rights and how to exercise them, please refer to our Privacy Policy.
+For more details on these rights and how to exercise them, please refer to our [Privacy Policy](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/legal/privacypolicy.md).
 
 ## C. Data Security
 
@@ -227,13 +227,13 @@ Resonance employs industry-standard security measures to protect user data from 
 
 In the event of a data breach or security incident, Resonance will take prompt action to mitigate the impact and notify affected users as required by applicable laws and regulations.
 
-For more details on data security practices, please refer to our Privacy Policy and Security Measures documentation.
+For more details on data security practices, please refer to our [Privacy Policy](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/legal/privacypolicy.md) and [Security Measures](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/legal/securitymeasures.md) documentation.
 
 # IX. Updates and Amendments
 
 ## A. Right to Modify Terms
 
-Resonance reserves the right to update, amend, or modify these Terms of Service and other associated documents, including the Privacy Policy, at its discretion. Any changes made will become effective immediately upon posting the revised documents within the Resonance Gaming Ecosystem. Users are encouraged to periodically review these documents to stay informed about any updates.
+Resonance reserves the right to update, amend, or modify these Terms of Service and other associated documents, including the [Privacy Policy](https://github.com/PlayResonance/whitepaper/blob/main/tokenomics/legal/privacypolicy.md), at its discretion. Any changes made will become effective immediately upon posting the revised documents within the Resonance Gaming Ecosystem. Users are encouraged to periodically review these documents to stay informed about any updates.
 
 ## B. Notification of Changes
 
