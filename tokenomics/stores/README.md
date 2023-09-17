@@ -1,4 +1,5 @@
-## Explore the Diverse Stores in Resonance
+# Stores 
+*Explore the Diverse Stores in Resonance*
 
 Within the Resonance universe, players will discover a vibrant array of in-game stores, each offering a unique shopping experience. From fashionable clothing and accessories to luxurious real estate and exquisite in-home decor, there's something for every taste and style.
 
